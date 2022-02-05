@@ -7,13 +7,19 @@
 ✅ Python <br>
 ✅ Git <br>
 ✅ Scrum / Desenvolvimento Ágil <br>
+✅ SQL <br>
 🔋 Java <br>
 🔋 React <br>
 🔋 Next.js <br>
-🔋 SQL <br>
 🔋 Node.js <br>
 🔋 TypeScript <br>
-:
+
+### Fatos interessantes 👀
+* Criei meu primeiro site em 2008, durante um curso de desenvolvimento de sites.
+* Sou apaixonado por jogos eletrônicos desde meus 5 anos, meus gêneros favoritos são RPG e Terror <img align="right" height="150" style="border-radius:50px;" src="https://c.tenor.com/JqxVNYXTltUAAAAd/jdg-skyrim.gif">
+* Metade dos meus amigos mais próximos eu nunca vi pessoalmennte, apenas por Skype/Discord.
+* Sou curioso, gosto muito de entender como as coisas funcionam.
+* Adoro ler, é um hobbie que adquiri no ensino médio que levo para a vida.
 
 #
 <div align="center">
