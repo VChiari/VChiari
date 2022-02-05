@@ -16,10 +16,10 @@
 
 ### Fatos interessantes 👀
 * Criei meu primeiro site em 2008, durante um curso de desenvolvimento de sites.
-* Sou apaixonado por jogos eletrônicos desde meus 5 anos, meus gêneros favoritos são RPG e Terror <img src="https://c.tenor.com/JqxVNYXTltUAAAAd/jdg-skyrim.gif" width="40" height="40" />
+* Sou apaixonado por jogos eletrônicos desde meus 5 anos, meus gêneros favoritos são RPG e Terror 🎮
 * Metade dos meus amigos mais próximos eu nunca vi pessoalmennte, apenas por Skype/Discord.
 * Sou curioso, gosto muito de entender como as coisas funcionam.
-* Adoro ler, é um hobbie que adquiri no ensino médio que levo para a vida.
+* Adoro ler, é um hobbie que adquiri no ensino médio que levo para a vida. 📘
 
 #
 <div align="center">
