@@ -1,14 +1,14 @@
 ## Olá, eu sou o Chiari 🎈
 
 ### Tecnologias que estou <u>estudando</u> atualmente 💻
-✅ JavaScript <br>
-✅ HTML <br>
-✅ CSS <br>
+✅ Java <br>
 ✅ Python <br>
 ✅ Git <br>
 ✅ Scrum / Desenvolvimento Ágil <br>
 ✅ SQL <br>
-🔋 Java <br>
+🔋 JavaScript <br>
+🔋 HTML <br>
+🔋 CSS <br>
 🔋 React <br>
 🔋 Next.js <br>
 🔋 Node.js <br>
